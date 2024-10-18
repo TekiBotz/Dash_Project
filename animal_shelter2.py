@@ -1,3 +1,11 @@
+"""
+Project: Animal Shelter CRUD Operations
+File: animal_shelter2.py
+Author: Jarrale Butts
+Created: 2024-02-25
+Purpose: Provides CRUD operations (Create, Read, Update, Delete) for managing animal records in a MongoDB collection.
+"""
+
 from pymongo import MongoClient
 from bson.objectid import ObjectId
 
