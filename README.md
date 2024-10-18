@@ -39,13 +39,7 @@ Features
 	•	Pie Chart: Visualizes the distribution of animals based on selected filter criteria.
 	•	Geolocation Map: Displays the location of selected animals using their coordinates.
 
-Screenshots
-
-Screenshots will demonstrate the three interactive filter options and the functionality of the reset button.
-
 Usage
-
-![DashProjectUsage](https://github.com/user-attachments/assets/cf48347d-eb82-4160-a6d7-819db4ac1fb8)
 
 Code Example
 
