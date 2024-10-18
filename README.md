@@ -44,6 +44,7 @@ Screenshots
 Screenshots will demonstrate the three interactive filter options and the functionality of the reset button.
 
 Usage
+
 ![image](https://github.com/user-attachments/assets/41b710a8-072a-4732-ac17-ae423d5d356c)
 
 
