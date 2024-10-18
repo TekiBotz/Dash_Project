@@ -56,10 +56,10 @@ class AnimalShelter(object):
 
 def main():
     # Parameters for initializing connection
-    USER = 'aacuser'
-    PASS = 'SNHU1234'
-    HOST = '127.0.0.1'
-    PORT = 27017
+    USER = '*******'
+    PASS = '********'
+    HOST = '***.*.*.*'
+    PORT = *****
     DB = 'AAC'
     COL = 'animals'
     
