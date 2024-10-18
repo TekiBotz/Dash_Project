@@ -45,8 +45,7 @@ Screenshots will demonstrate the three interactive filter options and the functi
 
 Usage
 
-![image](https://github.com/user-attachments/assets/41b710a8-072a-4732-ac17-ae423d5d356c)
-
+![DashProjectUsage](https://github.com/user-attachments/assets/cf48347d-eb82-4160-a6d7-819db4ac1fb8)
 
 Code Example
 
